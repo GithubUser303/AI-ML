@@ -4,3 +4,5 @@ This repository contains an EDA on salary data of different candidates according
 Theres also a linear regression on the same data showing a linear relation between Working experience and salary.
 
 Theres also A logistic regression showing multiple classifications and their readings
+
+Random Forest and Decision Tree classification on Healthcare data set
